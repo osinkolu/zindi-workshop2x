@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'zindi-workshopx'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_624EE8801BC141CABCDC559492921E1B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5B8A233AF8484355A5336C3D5A3DA273 }}
